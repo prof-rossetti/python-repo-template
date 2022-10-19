@@ -1,3 +1,11 @@
+
+# hidden / clutter files on Mac:
+.DS_Store
+
+# google credentials file:
+google-credentials.json
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
