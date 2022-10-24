@@ -5,12 +5,13 @@
 This is a template repository for Python applications. Feel free to use this as your starting point, instead of creating a repository from scratch.
 
 You'll probably want to update this README file by:
- 1. specifying your project name for the top level heading (above),
- 2. changing the virtual environment name in the "Setup" section below (in both the creation and activation commands),
- 3. updating the contents of the "requirements.txt" file to reflect the packages you're using in your project, and also
- 4. Creating your own Python files in the app directory, and updating the "Usage" section below accordingly.
+ 1. Specifying your project name for the top level heading (above),
+ 2. Changing the virtual environment name in the "Setup" section below (in both the creation and activation commands),
+ 3. Updating the "Configuration" section to reflect any environment variables you may be using (or remove if not using env vars),
+ 4. Updating the contents of the "requirements.txt" file to reflect the packages you're using in your project, and also
+ 5. Creating your own Python files in the app directory, and updating the "Usage" section below accordingly.
 
-When you're done, remove this Instructions section from the README file.
+When you're done, remove this entire "Instructions" section from the README file.
 
 ## Setup
 
